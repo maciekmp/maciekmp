@@ -1,4 +1,4 @@
-<a href="https://maciejplusa.com"><img src="assets/hero.svg?v=2" width="100%" alt="Maciej Płusa — Building products. Growing teams. Senior React and full-stack engineer, tech lead. Engineering since 2010." /></a>
+<a href="https://maciejplusa.com"><img src="assets/hero-audio.svg" width="100%" alt="Maciej Płusa — Building products. Growing teams. Senior React and full-stack engineer, tech lead. Engineering since 2010." /></a>
 
 <p align="center">
 <a href="https://maciejplusa.com"><strong>Portfolio &amp; case studies ↗</strong></a>&nbsp;&nbsp; · &nbsp;&nbsp;
