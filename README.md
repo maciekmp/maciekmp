@@ -62,7 +62,7 @@ Experiments with real interfaces, working code and a little personality.
 - **AI in everyday engineering:** useful delegation, explicit boundaries and verification before shipping.
 - **Interfaces beyond the form:** voice, sound, spatial interactions and hardware experiments.
 
-Away from the keyboard: EVs, electronics tinkering and mixology.
+Away from the keyboard: EVs, electronics tinkering and hiking.
 
 ---
 
